@@ -1,2 +1,2 @@
 class placeholder():
-    pass
+  pass
