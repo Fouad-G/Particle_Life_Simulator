@@ -11,6 +11,7 @@ build-backend = "setuptools.build_meta"
 authors = [
     { name = "John Hamelmann", email = "john.hamelmann@study.hs-duesseldorf.de" }
     { name = "Aleem Hussain", email = "aleem.hussain@study.hs-duesseldorf.de" }
+     {name="Zayd badla ",email="zayd.badla@study.hs-duesseldorf.de"}
 ]
 classifiers = [
     "Development Status :: 2 - Pre-Alpha",
